@@ -87,7 +87,7 @@ const CreatePost = () => {
         <h1 className='font-extrabold font-[#222328] text-[32px]'>Create</h1>
         <p className='mt-2 text-[#666e75] text-[16px] max-w-[500px]'>
           Create a collection of imaginative and visually stunning Images
-          through DALL-E openAI and share them with the community.
+          through DALL-E OpenAI and share them with the Imagi-Nation community.
         </p>
       </div>
 
